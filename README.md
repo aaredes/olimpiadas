@@ -18,8 +18,3 @@ Este projeto web é uma enciclopédia online dedicada aos atletas brasileiros. A
 * **style.css:** Arquivo de estilos CSS.
 * **app.js:** Lógica JavaScript da aplicação.
 * **dados.js:** Arquivo contendo os dados dos atletas (JSON).
-
-### Como executar
-1. **Clone o repositório:**
-   ```bash
-   git clone [URL inválido removido]
