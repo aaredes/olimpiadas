@@ -45,10 +45,6 @@ Quer testar a aplicação no seu computador? Siga estes passos simples:
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para me enviar um e-mail em [aaredes@gmail.com](mailto:aaredes@gmail.com).
 
-## 📅 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Obrigado por visitar o **Atletas do Brasil**! Espero que você goste da aplicação tanto quanto eu gostei de construí-la. 🚀🙌
